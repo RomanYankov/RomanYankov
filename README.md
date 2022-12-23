@@ -12,3 +12,5 @@ Language and tools
 
 ![C](https://img.shields.io/badge/C-43ff64d9?style=for-the-badge&logo=C)
 ![GO](https://img.shields.io/badge/Go-27e1f5?style=for-the-badge&logo=GO&logoColor=violet)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanYankov&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
