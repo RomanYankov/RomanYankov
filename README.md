@@ -2,8 +2,7 @@
 
 <img src="https://github.com/RomanYankov/RomanYankov/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400"  align="right"/>
 
-
-About
+Work in the space of the IoT/Embedded systems.
 
 
 Language and tools
