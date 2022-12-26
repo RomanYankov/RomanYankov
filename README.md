@@ -28,4 +28,6 @@
 
 <br />
 
-<img src="https://github.com/RomanYankov/RomanYankov/blob/main/tresh/github-user-contribution.svg" />
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
