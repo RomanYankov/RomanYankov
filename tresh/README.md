@@ -1,11 +1,6 @@
-<h1 align="center">
-Hello </h1>
+{#[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Roman;welcome+to+my+page)](https://git.io/typing-svg) #}
 
-<br />
-
-![github contribution grid snake animation](https://github.com/RomanYankov/snake/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br />
+<img src="https://github.com/RomanYankov/RomanYankov/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="right"/>
 
 ### **Work with IoT/Embedded systems.**
 <br />
@@ -29,11 +24,6 @@ Hello </h1>
 
 <br />
 
-
-<img src="https://github.com/RomanYankov/RomanYankov/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>
-
-<br />
-
-
 ![](https://komarev.com/ghpvc/?username=RomanYankov)
 
+<br />
