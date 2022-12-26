@@ -23,7 +23,9 @@
 
 ![C](https://img.shields.io/badge/C-43ff64d9?style=for-the-badge&logo=C)
 ![GO](https://img.shields.io/badge/Go-27e1f5?style=for-the-badge&logo=GO&logoColor=violet)
-
+<img src="https://img.shields.io/badge/Visual Studio Code-0078d7?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-000?&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/CubeIDE-00F?&style=for-the-badge&logo="/>
 <br />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanYankov&theme=default)
