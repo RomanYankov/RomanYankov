@@ -37,7 +37,9 @@
 <img src="https://github.com/RomanYankov/RomanYankov/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>
 
 <br />
-
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br />
 
 ![](https://komarev.com/ghpvc/?username=RomanYankov)
 
