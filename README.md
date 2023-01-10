@@ -5,7 +5,7 @@
 
 <br />
 
-![github contribution grid snake animation](https://github.com/RomanYankov/snake/blob/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://github.com/engaziwayo/snake/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br />
 
@@ -28,17 +28,17 @@
 <img src="https://img.shields.io/badge/CubeIDE-00F?&style=for-the-badge&logo="/>
 <br />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanYankov&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanYankov&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engaziwayo&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engaziwayo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
 
-<img src="https://github.com/RomanYankov/RomanYankov/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>
+<img src="https://github.com/engaziwayo/engaziwayo/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>
 
 <br />
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![](https://komarev.com/ghpvc/?username=RomanYankov)
+![](https://komarev.com/ghpvc/?username=engaziwayo)
 
