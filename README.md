@@ -38,7 +38,7 @@
 
 <br />
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
 ![](https://komarev.com/ghpvc/?username=engaziwayo)
 
