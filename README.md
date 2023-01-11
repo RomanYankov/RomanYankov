@@ -34,7 +34,7 @@
 <br />
 
 
-<img src="https://github.com/engaziwayo/engaziwayo/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>
+<!--<img src="https://github.com/engaziwayo/engaziwayo/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>-->
 
 <br />
 <!--📏LINE-->
