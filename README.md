@@ -29,7 +29,7 @@
 <br />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engaziwayo&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engaziwayo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engaziwayo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br />
 
