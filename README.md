@@ -29,13 +29,12 @@
 
 <p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engaziwayo&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engaziwayo&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engaziwayo&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engaziwayo&theme=github_dark)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engaziwayo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br />
-
 
 <!--<img src="https://github.com/engaziwayo/engaziwayo/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>-->
 
