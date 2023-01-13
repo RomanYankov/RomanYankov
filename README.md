@@ -26,7 +26,10 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-000?&style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/CubeIDE-00F?&style=for-the-badge&logo="/>
-<br />
+
+<p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engaziwayo&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engaziwayo&theme=default)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engaziwayo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
