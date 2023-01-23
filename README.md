@@ -9,7 +9,7 @@
 
 <br />
 
-### **Work with IoT/Embedded systems.**
+<!--### **Work with IoT/Embedded systems.**-->
 <br />
 
 ![Flutter](https://img.shields.io/badge/STM8-ffd200?style=for-the-badge&logo=appveyor)
