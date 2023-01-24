@@ -29,10 +29,10 @@
 
 <p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engaziwayo&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engaziwayo&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engaziwayo&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engaziwayo&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engaziwayo&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engaziwayo&theme=2077)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engaziwayo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br />
