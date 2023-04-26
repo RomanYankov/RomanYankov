@@ -5,7 +5,7 @@
 
 <br />
 
-![github contribution grid snake animation](https://github.com/engaziwayo/snake/blob/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://github.com/artlukm/snake/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br />
 
@@ -29,19 +29,19 @@
 
 <p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engaziwayo&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artlukm&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engaziwayo&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engaziwayo&theme=2077)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engaziwayo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artlukm&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artlukm&theme=2077)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artlukm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br />
 
-<!--<img src="https://github.com/engaziwayo/engaziwayo/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>-->
+<!--<img src="https://github.com/artlukm/artlukm/blob/main/assets/bobs-burger-tina-belcher.gif" alt="The Unlimited" width="400" align="center"/>-->
 
 <br />
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
-![](https://komarev.com/ghpvc/?username=engaziwayo)
+![](https://komarev.com/ghpvc/?username=artlukm)
 
